@@ -1,4 +1,4 @@
-<img align="right" height="590em"
+<img align="right" height="550em"
 src="https://raw.githubusercontent.com/gist/lemuel-sousa/4472814e0fcbb3fd45c5a6fef1773b2e/raw/4cac7c1e5cb77d0890a5c971c45378b4fce3feb8/githubcard_lemuel.svg" />
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lemuel </h1>
