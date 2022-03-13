@@ -20,7 +20,7 @@ src="https://raw.githubusercontent.com/gist/lemuel-sousa/4472814e0fcbb3fd45c5a6f
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
 
-<br><br>
+<br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
