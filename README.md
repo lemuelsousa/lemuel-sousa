@@ -1,12 +1,4 @@
-<img align="right" height="540em"
-src="https://raw.githubusercontent.com/gist/lemuel-sousa/4472814e0fcbb3fd45c5a6fef1773b2e/raw/4cac7c1e5cb77d0890a5c971c45378b4fce3feb8/githubcard_lemuel.svg" />
-
 <h1 align="left">Hi, I'm Lemuel </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemuel-sousa&color=blue" alt="Profile views" /> </p>
-
-- 💡 Junior Developer
-- 💬 Information Technology Student
-- 🧑‍💻 Ask me about **JavaScript, HTML, CSS**
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -20,18 +12,9 @@ src="https://raw.githubusercontent.com/gist/lemuel-sousa/4472814e0fcbb3fd45c5a6f
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
 
-<br><br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-<br><br>
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lemuel-sousa&show_icons=true&theme=tokyonight" alt="Lemuel-Lousa's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemuel-sousa&layout=compact&theme=tokyonight" alt="Lemuel-Sousa's most languages"/>
-</p>
-
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://instagram.com/sr.lemuk" target="_blank">
